@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.106.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuibird/noctalia-vscode-theme.git"
+  },
   "categories": [
     "Themes"
   ],
