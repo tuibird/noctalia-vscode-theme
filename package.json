@@ -1,0 +1,21 @@
+{
+  "name": "noctaliatheme",
+  "displayName": "NoctaliaTheme",
+  "description": "Matugen Noctalia theme for VSCode, forked from HyprLuna",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NoctaliaTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NoctaliaTheme-color-theme.json"
+      }
+    ]
+  }
+}
