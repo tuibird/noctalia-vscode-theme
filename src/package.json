@@ -1,14 +1,13 @@
 {
   "name": "noctaliatheme",
   "displayName": "NoctaliaTheme",
-  "description": "Matugen Noctalia theme for VSCode, forked from HyprLuna",
-  "version": "0.0.1",
+  "description": "Noctalia Matugen theme for VS Code, originally forked from Hyprluna's VS Code theme.",
+  "version": "0.0.2",
+  "publisher": "Noctalia Team",
+  "repository": {"url":"https://github.com/tuibird/noctalia-vscode-theme"},
+  "license":"MIT",
   "engines": {
     "vscode": "^1.106.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tuibird/noctalia-vscode-theme.git"
   },
   "categories": [
     "Themes"
