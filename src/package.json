@@ -3,8 +3,8 @@
   "displayName": "NoctaliaTheme",
   "description": "Noctalia Matugen theme for VS Code, originally forked from Hyprluna's VS Code theme.",
   "icon": "noctalialogo.png",
-  "version": "0.0.3",
-  "publisher": "Noctalia Team",
+  "version": "0.0.4",
+  "publisher": "Noctalia",
   "repository": {
     "url": "https://github.com/tuibird/noctalia-vscode-theme"
   },
