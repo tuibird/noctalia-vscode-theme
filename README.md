@@ -1,4 +1,4 @@
-# noctaliatheme
+# Noctalia Theme
 
-Will automatically update with Matugen.
+Will automatically update when Noctalia applies a color scheme.
 Originally forked from Hyprlunas matugen theme.
